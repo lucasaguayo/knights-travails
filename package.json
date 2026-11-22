@@ -1,0 +1,25 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knightTravails.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasaguayo/knights-travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lucasaguayo/knights-travails/issues"
+  },
+  "homepage": "https://github.com/lucasaguayo/knights-travails#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.14",
+    "jest": "^30.5.2"
+  }
+}
